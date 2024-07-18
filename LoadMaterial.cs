@@ -12,3 +12,5 @@ class MaterialManager {
           }
       }
 }
+
+// LoadMaterial("asset folder")
